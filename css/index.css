@@ -1,8 +1,7 @@
 .section-1 .logo-bat{
     width: 46rem;
     margin: auto;
-    margin-left: 214px;
-    margin-top: 95px;
+    margin-left: 150px;
     
     display: flex;
     justify-content: space-between;
@@ -22,20 +21,22 @@
 
 .section-1 h1{
     color: #fff;
-    font-size: 60px;
+    display: inline-block;
+    font-size: 50px;
     text-align: center;
-    padding: 1.5em
+    padding: 1.5em;
 }
 
 .section-1 p{
     color: #FFFFFF;
-    font-size: 50px;
+    display: inline-block;
+    font-size: 40px;
     padding: 5px;
     text-align: center;
 }
 
 .Caja{
-    width: 760px;
+    width: 570px;
     height: 100px;
     background-color: #FFFFFF;
     margin: auto;
@@ -48,22 +49,28 @@
 
 .Caja a{
     color: #201E1C;
-    margin-left: 65px;
-    font-size: 50px;
+    margin-left: 25px;
+    font-size: 40px;
     text-decoration: none;
     font-weight: 900;
 }
 
+.Caja img{
+    width: 5.5em;
+    margin-top: 1em;
+    position: inherit
+}
 .Moneda img{
     width: 500px;  
     margin: auto;
     margin-top: 50px;
-    margin-left: 250px;
+    margin-left: 150px;
 }   
 
 
 .section-2 h2{
     color: #201E1C;
+    display: inline-grid;
     font-size: 60px;
     font-weight: 800;
     margin-top: 50px;
