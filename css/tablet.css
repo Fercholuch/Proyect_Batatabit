@@ -1,0 +1,84 @@
+.section-1 .logo-bat{
+    width: 46rem;
+    margin: auto;
+    margin-left: 550px;
+    
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo-bat img{
+    width: 500px;
+    margin-top: 50px;
+}
+
+.logo-bat span{
+    color: #f7913a;
+    font-size: 70px;
+    font-weight: 800;
+    margin-top: 50px;
+}
+
+.section-1 h1{
+    color: #fff;
+    display: inline-block;
+    font-size: 80px;
+    text-align: center;
+    padding: 1.5em;
+}
+
+.section-1 p{
+    color: #FFFFFF;
+    display: inline-block;
+    font-size: 50px;
+    text-align: center;
+}
+
+.Caja{
+    width: 570px;
+    height: 100px;
+    background-color: #FFFFFF;
+    margin: auto;
+    margin-top: -52px;
+    background: #FAF8F7;
+    box-shadow: 0px 4px 8px rgba(89, 73, 30, 0.16);
+    border-radius: 4px;
+
+}
+
+.Caja a{
+    color: #201E1C;
+    margin-left: 25px;
+    font-size: 40px;
+    text-decoration: none;
+    font-weight: 900;
+}
+
+.Caja img{
+    width: 5.5em;
+    margin-top: 1em;
+    position: inherit
+}
+.Moneda img{
+    width: 500px;  
+    margin: auto;
+    margin-top: 50px;
+    margin-left: 550px;
+}   
+
+
+.section-2 h2{
+    color: #201E1C;
+    display: inline-grid;
+    font-size: 80px;
+    font-weight: 800;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.section-2 p{
+    color: #BABABA;
+    font-size: 65px;
+    padding: 5px;
+    text-align: center;
+}
