@@ -24,9 +24,9 @@ Jossue Emmanuel Fuentes
 - Índice.
 - Objetivos.
 - Proyecto Batatabit.
- •.Versión movil
- •.Versión Tableta
- •.Verson Desktop
+######  Version Movil.
+###### Version Tableta.
+###### Version Desktop.
 
 # OBJETIVOS
 1. Poder analizar y comprender mejor las estructuras que se dan en clase, para dar un buen trabajo.
