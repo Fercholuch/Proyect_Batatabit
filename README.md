@@ -36,6 +36,3 @@ Jossue Emmanuel Fuentes
 
 2. Trabajar bien, y aprovechar algunos tiempos libres para adelantar en el proyecto, y no atrasarme.
 3. Prácticar por mi cuenta, para desarrolar más este hábito, y manejarlo bien.
-
-2. Trabajar bien, y aprovechar algunos tiempos libres para adelantar en el proyecto, y no atrasarme.
-3. Prácticar por mi cuenta, para desarrolar más este hábito, y manejarlo bien.
