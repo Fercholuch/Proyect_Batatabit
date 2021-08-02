@@ -30,7 +30,7 @@
 .section-1 p{
     color: #FFFFFF;
     display: inline-block;
-    font-size: 40px;
+    font-size: 35px;
     padding: 5px;
     text-align: center;
 }
@@ -58,12 +58,12 @@
 .Caja img{
     width: 5.5em;
     margin-top: 1em;
-    position: inherit
+    position: inherit;
 }
 .Moneda img{
-    width: 500px;  
+    width: 45em;  
     margin: auto;
-    margin-top: 50px;
+    margin-top: 8em;
     margin-left: 150px;
 }   
 
@@ -73,13 +73,342 @@
     display: inline-grid;
     font-size: 60px;
     font-weight: 800;
-    margin-top: 50px;
+    margin-top: 1.5em;
     text-align: center;
 }
 
 .section-2 p{
     color: #BABABA;
     font-size: 35px;
-    padding: 5px;
+    padding: 1.2em;
     text-align: center;
+}
+
+.section-2 h3{
+    color: #FF9536;
+    position: absolute;
+    font-size: 4.2em;
+    margin-left: 3em;
+    margin-top: 1em;
+}
+
+.Tabla{
+    margin: 110px;
+    margin-top: 12em;
+    width: 500px;
+}
+
+table{
+    background-color: #ffffff;
+    font-size: 35px;
+    text-align: left;
+    width: 100%;
+    border-radius: 20px;
+}
+
+td{
+    border: solid 1px #FAF8F7;
+    padding: 20px;
+    color: #BABABA;
+}
+
+table img{
+    width: 35px;
+    margin-top: 25px;
+    margin-right: 50px;
+}
+
+.cuadro{
+    display: flex;
+    flex-direction: row;
+    width: 45em;
+    margin-top: -55px;
+    background-color: #FFE9D5;
+    margin-left: 125px;
+    border-radius: 20px;
+}
+
+.cuadro p{
+    color: black;
+    padding: 20px;
+    text-align: center;
+    margin-left: 5px;
+    font-size: 30px;
+}
+
+.section-3{
+    margin-top: -250px;
+}
+
+
+.section-3 h1{
+    color: #fff;
+    margin-top: 85px;
+    font-weight: bold;
+    text-align:center;
+    display: inline-block;
+    font-size: 50px;
+}
+
+.section-3 p{
+    color: #808080;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 20px;
+    font-weight: 500;
+}
+
+/*--------------------*/
+.Cuadro1{
+    margin: 150px auto;
+    margin-top: 50px;
+    width: 630px;
+    height: 350px;
+    border-radius: 4px;
+    background-color: #282623;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.36);
+}
+
+.Cuadro1 img{
+    margin: 30px auto;
+    margin-left: 30px;
+    width: 50px;
+    height: 50px;  
+}
+
+.Cuadro1 h1{
+    font-size: 40px;
+    margin-top: -20px;
+    margin-left: 25px;
+    font-weight: 500;
+}
+
+.Cuadro1 p{
+     color: #808080;
+    font-size: 30px;
+    text-align: left;
+    margin-top: 20px;
+    margin-left: 30px;
+    font-weight: 500
+}
+
+/*--------------------*/
+
+.Cuadro2{
+    margin: 150px auto;
+    margin-top: -120px;
+    width: 630px;
+    height: 350px;
+    border-radius: 4px;
+    background-color: #282623;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.36);
+}
+
+.Cuadro2 img{
+    margin: 30px auto;
+    margin-left: 30px;
+    width: 50px;
+    height: 50px;  
+}
+
+.Cuadro2 h1{
+    font-size: 40px;
+    margin-top: -120px;
+    margin-left: 25px;
+    font-weight: 500;
+}
+
+.Cuadro2 p{
+     color: #808080;
+    font-size: 30px;
+    text-align: left;
+    margin-top: 20px;
+    margin-left: 30px;
+    font-weight: 500
+}
+
+/*--------------------*/
+
+.Cuadro3{
+    margin: 150px auto;
+    margin-top: -120px;
+    width: 630px;
+    height: 350px;
+    border-radius: 4px;
+    background-color: #282623;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.36);
+}
+
+.Cuadro3 img{
+    margin: 30px auto;
+    margin-left: 30px;
+    width: 50px;
+    height: 50px;  
+}
+
+.Cuadro3 h1{
+    font-size: 40px;
+    margin-top: -20px;
+    margin-left: 25px;
+    font-weight: 500;
+}
+
+.Cuadro3 p{
+     color: #808080;
+    font-size: 30px;
+    text-align: left;
+    margin-top: 20px;
+    margin-left: 30px;
+    font-weight: 500
+}
+
+/*------------------*/
+
+.Cuadro4{
+    margin: 150px auto;
+    margin-top: -120px;
+    width: 630px;
+    height: 350px;
+    border-radius: 4px;
+    background-color: #282623;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.36);
+}
+
+.Cuadro4 img{
+    margin: 30px auto;
+    margin-left: 30px;
+    width: 50px;
+    height: 50px;  
+}
+
+.Cuadro4 h1{
+    font-size: 40px;
+    margin-top: -20px;
+    margin-left: 25px;
+    font-weight: 500;
+}
+
+.Cuadro4 p{
+     color: #808080;
+    font-size: 30px;
+    text-align: left;
+    margin-top: 20px;
+    margin-left: 30px;
+    font-weight: 500
+}
+
+.Foto img{
+    width: 100%;
+    margin-top: -15px;
+}
+
+.Foto h1{
+    color: #ffffff;
+    font-size: 55px;
+    margin-top: -755px;
+    text-align: center;
+}
+
+.section-4 h2{
+    color: #201E1C;
+    font-size: 58px;
+    margin-top: 750px;
+    font-weight: 800;
+    text-align: center;
+}
+
+.section-4 p{
+    color: #757575;
+    font-size: 35px;
+    padding: 1.2em;
+    text-align: center;
+}
+
+.Pagos{
+    margin: 150px auto;
+    background-color:#FFFFFF;
+    box-shadow: 0px 4px 8px rgba(0, 73, 30, 0.16);
+    border-radius: 2em;
+    width: 45em;
+    height: 60em;       
+}
+
+.Pagos h1{
+    font-size: 35px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.preg{
+    width: 650px;
+    height: 100px;
+    margin-left: 100px;
+}
+
+.preg h4{
+    font-size: 65px;
+    color: #201E1C;
+}
+
+.preguntas{
+    width: 720px;
+    height: 100px;
+    margin-left: -95px;
+    margin-top: 50px;
+}
+
+.preguntas p{
+    color: #757575;
+    font-size: 26px;
+    text-align: left;
+}
+
+.preguntas img{
+    margin-left: 650px;
+    
+}
+
+/*------------------*/
+
+.preguntas2{
+    width: 720px;
+    height: 100px;
+    margin-left: -95px;
+    margin-top: -20px;
+}
+
+.preguntas2 p{
+    color: #757575;
+    font-size: 26px;
+    text-align: left;
+}
+
+/*------------------*/
+
+.preguntas3{
+    width: 720px;
+    height: 100px;
+    margin-left: -95px;
+    margin-top: -20px;
+}
+
+.preguntas3 p{
+    color: #757575;
+    font-size: 26px;
+    text-align: left;
+}
+
+/*-------------------*/
+
+.preguntas4{
+    width: 720px;
+    height: 100px;
+    margin-left: -95px;
+    margin-top: -20px;
+}
+
+.preguntas4 p{
+    color: #757575;
+    font-size: 26px;
+    text-align: left;
 }
