@@ -27,6 +27,7 @@ Jossue Emmanuel Fuentes
 - Índice.
 - Objetivos.
 - Proyecto Batatabit.
+https://fercholuch.github.io/Proyect_Batatabit/
 ######  Version Movil.
 ###### Version Tableta.
 ###### Version Desktop.
