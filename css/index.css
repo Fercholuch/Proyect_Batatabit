@@ -28,7 +28,7 @@
 }
 
 .section-1 p{
-    color: #FFFFFF;
+    color:  #FFE9D5;
     display: inline-block;
     font-size: 35px;
     padding: 5px;
@@ -41,7 +41,7 @@
     background-color: #FFFFFF;
     margin: auto;
     margin-top: -52px;
-    background: #FAF8F7;
+    background: #FFFFFF;
     box-shadow: 0px 4px 8px rgba(89, 73, 30, 0.16);
     border-radius: 4px;
 
@@ -57,8 +57,8 @@
 
 .Caja img{
     width: 5.5em;
-    margin-top: 1em;
-    position: inherit;
+    margin-top: em;
+    margin-left: 
 }
 .Moneda img{
     width: 45em;  
@@ -121,7 +121,7 @@ table img{
 .cuadro{
     display: flex;
     flex-direction: row;
-    width: 45em;
+    width: 29em;
     margin-top: -55px;
     background-color: #FFE9D5;
     margin-left: 125px;
@@ -141,20 +141,22 @@ table img{
 }
 
 
-.section-3 h1{
+.h1 h1{
     color: #fff;
     margin-top: 85px;
     font-weight: bold;
     text-align:center;
     display: inline-block;
-    font-size: 50px;
+    font-size: 55px;
 }
 
-.section-3 p{
+.h1 p{
+    width: 550px;
     color: #808080;
     font-size: 30px;
     text-align: center;
-    margin-top: 20px;
+    margin-top: 35px;
+    margin-left: 80px;
     font-weight: 500;
 }
 
@@ -177,6 +179,7 @@ table img{
 }
 
 .Cuadro1 h1{
+    color: #FFFFFF;
     font-size: 40px;
     margin-top: -20px;
     margin-left: 25px;
@@ -212,8 +215,9 @@ table img{
 }
 
 .Cuadro2 h1{
+    color: #FFFFFF;
     font-size: 40px;
-    margin-top: -120px;
+    margin-top: -20px;
     margin-left: 25px;
     font-weight: 500;
 }
@@ -247,6 +251,7 @@ table img{
 }
 
 .Cuadro3 h1{
+    color: #FFFFFF;
     font-size: 40px;
     margin-top: -20px;
     margin-left: 25px;
@@ -282,6 +287,7 @@ table img{
 }
 
 .Cuadro4 h1{
+    color: #FFFFFF;
     font-size: 40px;
     margin-top: -20px;
     margin-left: 25px;
@@ -411,4 +417,11 @@ table img{
     color: #757575;
     font-size: 26px;
     text-align: left;
+}
+
+
+
+.section-5 h1{
+    font-size: 50px;
+    color: #FFF;
 }
