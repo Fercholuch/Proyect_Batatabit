@@ -27,7 +27,6 @@ Jossue Emmanuel Fuentes
 - Índice.
 - Objetivos.
 - Proyecto Batatabit.
-https://fercholuch.github.io/Proyect_Batatabit/
 ######  Version Movil.
 ###### Version Tableta.
 ###### Version Desktop.
@@ -37,3 +36,18 @@ https://fercholuch.github.io/Proyect_Batatabit/
 
 2. Trabajar bien, y aprovechar algunos tiempos libres para adelantar en el proyecto, y no atrasarme.
 3. Prácticar por mi cuenta, para desarrolar más este hábito, y manejarlo bien.
+
+# DOCUMENTACIÓN
+
+
+
+
+# OBJETIVOS A FUTURO
+###### ORGANIZACIÓN: 
+- Poder emprender el hábito de no atrasarme en los trabajos, mantener un horario solo para dedicarme a las tareas.
+
+###### INVESTIGACIÓN:
+- Hay algunas veces que no me queda algo claro, e investigo por mi cuenta lo que tengo de duda, pero quiero quitarme la pena de preguntar en la clase y poder decirle a la maestra las cosas que no entiendo.
+
+###### PROPOSITO:
+- Mejorar mis trabajos, ya que siempre me imagino como lo quiero hacer, y casi siempre termino haciendo otra cosa, espero por lo menos que me gusten más para que me sienta satisfecho. Y cumplir también lo que se pide.
