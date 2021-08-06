@@ -370,56 +370,75 @@ table img{
 }
 
 .preg h4{
-    font-size: 65px;
+    font-size: 80px;
+    width: 680px;
     color: #201E1C;
+    margin-left: 350px;
 }
 
 .preguntas{
     width: 720px;
     height: 100px;
-    margin-left: -95px;
+    margin-left: 95px;
     margin-top: 50px;
 }
 
 .preguntas p{
     color: #757575;
-    font-size: 26px;
+    width: 800px;
+    font-size: 40px;
     text-align: left;
+    margin-left: 50px;
 }
 
 .preguntas img{
-    margin-left: 650px;
+    margin-left: 950px;
+    width: 50px;
     
 }
 
 /*------------------*/
 
 .preguntas2{
-    width: 720px;
     height: 100px;
-    margin-left: -95px;
-    margin-top: -20px;
+    margin-left: 95px;
+    margin-top: 50px;
 }
 
 .preguntas2 p{
     color: #757575;
-    font-size: 26px;
+    width: 1050px;
+    font-size: 40px;
     text-align: left;
+    margin-left: 50px;
 }
 
+.preguntas2 img{
+    margin-left: 950px;
+    width: 50px;
+    
+}
 /*------------------*/
 
 .preguntas3{
     width: 720px;
     height: 100px;
-    margin-left: -95px;
+    margin-left: 95px;
     margin-top: -20px;
 }
 
 .preguntas3 p{
     color: #757575;
-    font-size: 26px;
+    width: 700px;
+    font-size: 40px;
     text-align: left;
+    margin-left: 50px;
+}
+
+.preguntas3 img{
+    margin-left: 950px;
+    width: 50px;
+    
 }
 
 /*-------------------*/
@@ -427,14 +446,16 @@ table img{
 .preguntas4{
     width: 720px;
     height: 100px;
-    margin-left: -95px;
-    margin-top: -20px;
+    margin-left: 95px;
+    margin-top: 20px;
 }
 
 .preguntas4 p{
     color: #757575;
-    font-size: 26px;
+   width: 1050px;
+    font-size: 40px;
     text-align: left;
+    margin-left: 50px;
 }
 
 
