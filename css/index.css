@@ -371,6 +371,8 @@ table img{
 
 .preguntas img{
     margin-left: 650px;
+    width: 40px;
+    margin-top: -25px
     
 }
 
@@ -389,6 +391,12 @@ table img{
     text-align: left;
 }
 
+.preguntas2 img{
+    margin-left: 650px;
+    width: 40px;
+    margin-top: 10px;
+}
+
 /*------------------*/
 
 .preguntas3{
@@ -402,6 +410,12 @@ table img{
     color: #757575;
     font-size: 26px;
     text-align: left;
+}
+
+.preguntas3 img{
+    margin-left: 650px;
+    width: 40px;
+    margin-top: 10px;
 }
 
 /*-------------------*/
@@ -419,9 +433,38 @@ table img{
     text-align: left;
 }
 
-
-
-.section-5 h1{
+.footer h1{
+    color: #FFFFFF;
+    width: 500px;
+    height: 250px;
     font-size: 50px;
-    color: #FFF;
+    padding: 150px;
+    margin-left: 150px;
 }
+
+.footer h2{
+    color: #FFFFFF;
+    width: 500px;
+    height: 250px;
+    font-size: 50px;
+    padding: 5px;
+    margin-top: -25px;
+    margin-left: 280px;
+}
+
+.footer h3{
+    color: #FFFFFF;
+    width: 500px;
+    height: 250px;
+    font-size: 50px;
+    padding: 5px;
+    margin-top: -120px;
+    margin-left: 280px;
+}
+
+.footer img{
+    width: 250px;
+    margin-left: 1050px;
+    margin-top: -150px
+}
+
