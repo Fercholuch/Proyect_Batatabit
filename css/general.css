@@ -23,6 +23,7 @@ html{
     font-family: 'DM Sans', sans-serif;
 }
 
+
 .background{
     width: 100%;
     height: 75em;
@@ -59,5 +60,11 @@ html{
 .background_5{
     width: 100%;
     height: 35em;
+    background-color: #F7931A;
+}
+
+.footer{
+    width: 100%;
+    height: 60em;
     background-color: #F7931A;
 }
