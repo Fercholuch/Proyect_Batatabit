@@ -439,7 +439,7 @@ table img{
     height: 250px;
     font-size: 50px;
     padding: 150px;
-    margin-left: 150px;
+    margin-left: -60px;
 }
 
 .footer h2{
@@ -449,7 +449,7 @@ table img{
     font-size: 50px;
     padding: 5px;
     margin-top: -25px;
-    margin-left: 280px;
+    margin-left: 80px;
 }
 
 .footer h3{
@@ -459,12 +459,11 @@ table img{
     font-size: 50px;
     padding: 5px;
     margin-top: -120px;
-    margin-left: 280px;
+    margin-left: 80px;
 }
 
 .footer img{
-    width: 250px;
-    margin-left: 1050px;
+    width: 150px;
+    margin-left: 550px;
     margin-top: -150px
 }
-
